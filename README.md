@@ -482,7 +482,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Sunday Oyebiyi**
 
 - GitHub: [@oyebiyisunday](https://github.com/oyebiyisunday)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/sunday-oyebiyi/))
+- LinkedIn: [Sunday Oyebiyi](https://www.linkedin.com/in/sunday-oyebiyi/))
 - Email: oyebiyisunday@gmail.com
 
 ---
